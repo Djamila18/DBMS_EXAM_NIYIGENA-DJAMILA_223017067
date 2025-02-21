@@ -1,0 +1,30 @@
+int (Integer):
+
+Description: Used to store whole numbers, both positive and negative.
+Example: int age = 30;
+Output: Age: 30
+float (Floating Point):
+
+Description: Used to store decimal numbers with single precision. Suitable for less precise floating-point calculations.
+Example: float pi = 3.14f;
+Output: Pi: 3.14
+double (Double Precision Floating Point):
+
+Description: Used to store large decimal numbers with double precision. Offers higher precision than float.
+Example: double num = 3.1415926535;
+Output: Pi (double precision): 3.1415926535
+char (Character):
+
+Description: Used to store a single character, such as a letter or symbol.
+Example: char letter = 'A';
+Output: Letter: A
+bool (Boolean):
+
+Description: Used to store a value that can only be true or false.
+Example: bool isHappy = true;
+Output: Is Happy: True
+string (String):
+
+Description: Used to store text or a sequence of characters. Requires including the <string> library.
+Example: string name = "Alice";
+Output: Name: Alice

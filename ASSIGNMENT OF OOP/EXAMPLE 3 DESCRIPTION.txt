@@ -1,0 +1,10 @@
+This C++ program asks the user for their name and age and then displays a personalized greeting.
+
+It prompts the user to enter their name.
+It then prompts the user to enter their age.
+After receiving both inputs, it prints a message saying "Hello, [name]! You are [age] years old."
+For example, if you enter "Alice" as the name and "25" as the age, the output will be:
+Hello, Alice! You are 25 years old.
+
+In summary, it’s a simple program that interacts with the user to gather their name and age, and then greets them with a personalized message.
+

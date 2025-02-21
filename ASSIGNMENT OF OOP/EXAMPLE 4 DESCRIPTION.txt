@@ -1,0 +1,11 @@
+This code performs simple math operations between two numbers, a = 10 and b = 3, and prints the results:
+
+Sum: It adds a and b (10 + 3) and prints the result: Sum: 13.
+Difference: It subtracts b from a (10 - 3) and prints the result: Difference: 7.
+Product: It multiplies a and b (10 * 3) and prints the result: Product: 30.
+Quotient: It divides a by b (10 / 3), which gives 3 because of integer division, and prints: Quotient: 3.
+Remainder: It calculates the remainder when a is divided by b (10 % 3), which is 1, and prints: Remainder: 1.
+In summary, it shows the sum, difference, product, quotient, and remainder of dividing 10 by 3.
+
+
+
